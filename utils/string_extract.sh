@@ -3,3 +3,5 @@ ibtool --export-strings-file ADNetPromoterScoreSurvey/View/en.lproj/NPSFeedbackQ
 ibtool --export-strings-file ADNetPromoterScoreSurvey/View/en.lproj/NPSScoreQuestionView.strings ADNetPromoterScoreSurvey/View/Base.lproj/NPSScoreQuestionView.xib
 ibtool --export-strings-file ADNetPromoterScoreSurvey/View/en.lproj/NPSSurveyView.strings ADNetPromoterScoreSurvey/View/Base.lproj/NPSSurveyView.xib
 ibtool --export-strings-file ADNetPromoterScoreSurvey/View/en.lproj/NPSThankYouView.strings ADNetPromoterScoreSurvey/View/Base.lproj/NPSThankYouView.xib
+
+cp ADNetPromoterScoreSurvey/View/Base.lproj/Localizable.strings ADNetPromoterScoreSurvey/View/en.lproj/
